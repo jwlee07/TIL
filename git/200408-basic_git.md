@@ -17,8 +17,6 @@ Remote -(clone)-> Workspace
 ```		
 
 ##### Git Syntex  
-#####All Git Syntex first word is git !  
-#####Today Learned list  
 
 ```
    status    Show the working tree status  
