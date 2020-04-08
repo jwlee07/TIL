@@ -3,15 +3,15 @@
 ## Contents
 
 - OS history
-	-redhat (ex.Centos ...)
-	-ubuntu
+	- redhat (ex.Centos ...)
+	- ubuntu
 
 - Terminal Syntex
-	-cd (change dir)
-	-ls (list s?) 
-	-mkdir (make dir)
-	-cp (copy sug)
-	-rm (-rf)
+	- cd (change dir)
+	- ls (list s?) 
+	- mkdir (make dir)
+	- cp (copy sug)
+	- rm (-rf)
 	
 - Git Syntex
 	- status
