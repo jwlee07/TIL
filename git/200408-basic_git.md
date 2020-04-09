@@ -95,7 +95,8 @@ Install Npm(node.js) -> Install Hexo(cli) -> Create Blog -> Git Connect(repo) ->
 ```
 
 #### Create Blog  
-```  
+``` 
+- Hexo install & config 
 	1. Install Npm(node.js)  
 	2. Install Hexo  
 		2-1. npm install -g hexo-cli  
