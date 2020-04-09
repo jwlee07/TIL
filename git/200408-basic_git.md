@@ -1,12 +1,14 @@
-# Basic Git  
+# Basic Git & Hexo
 
 ## Contents  
+1.Git  
+2.Hexo  
 
 ### Git 
 
 ```
 - What Is Git ?
-url : [Git](https://git-scm.com/) 
+[Git](https://git-scm.com/) 
 ```
 
 ##### Git Flow  
@@ -71,7 +73,7 @@ Remote -(clone)-> Workspace
 
 ```  
 - Wath is Hexo ?  
-Url : [Hexo](https://hexo.io/ko/index.html)  
+[Hexo](https://hexo.io/ko/index.html)  
 ```  
 
 ##### Work Flow    
