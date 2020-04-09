@@ -1,8 +1,8 @@
 # Basic Git & Hexo
 
 ## Contents  
-1.Git  
-2.Hexo  
+1. Git  
+2. Hexo  
 
 ### Git 
 
@@ -72,7 +72,7 @@ Remote -(clone)-> Workspace
 ### Hexo  
 
 ```  
-- Wath is Hexo ?  
+- What is Hexo ?  
 [Hexo](https://hexo.io/ko/index.html)  
 ```  
 
