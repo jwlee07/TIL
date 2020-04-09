@@ -2,9 +2,14 @@
 
 ## Contents  
 
-### Git  
+### Git 
 
-##### Flow  
+```
+- What Is Git ?
+url : [Git](https://git-scm.com/) 
+```
+
+##### Git Flow  
 
 ```  
 - Direction  
@@ -25,6 +30,8 @@ Remote -(clone)-> Workspace
    commit    Record changes to the repository  
    push      Update remote refs along with associated objects  
    clone     Clone a repository into a new directory  
+   fetch     Download objects and refs from another repository
+   pull      Fetch from and integrate with another repository or a local branch
 ```
 
 #### Create TIL (Remote Repositories)  
@@ -33,7 +40,7 @@ Remote -(clone)-> Workspace
 - Git install & config  
 	1. Git Install  
 		1-1. brew install git  
-		1-2. check git version !  
+		1-2. check git --version !  
 
 	2. Git Config  
 		2-1. git config --global user.namne [username]  
@@ -58,6 +65,60 @@ Remote -(clone)-> Workspace
 		5-4. git git push origin master  
 ```  
 
+*****
+
+### Hexo  
+
+```  
+- Wath is Hexo ?  
+Url : [Hexo](https://hexo.io/ko/index.html)  
+```  
+
+##### Work Flow    
+```
+Install Npm(node.js) -> Install Hexo(cli) -> Create Blog -> Git Connect(repo) -> Theme(next) Apply  
+```  
+
+##### Hexo Syntex    
+```  
+  version   Display version information.  
+  init      Create a new Hexo folder.  
+  server    Start the server.  
+  clean     Remove generated files and cache.  
+  generate  Generate static files.  
+  deploy    Deploy your website  
+
+  --config  Specify config file instead of using _config.yml  
+  --safe    Disable all plugins and scripts.  
+```
+
+#### Create Blog  
+```  
+	1. Install Npm(node.js)  
+	2. Install Hexo  
+		2-1. npm install -g hexo-cli  
+		2-2. check npm --version !  
+	3. Create Blog  
+		3-1. hexo init JWblog  
+		3-2. cd JWblog && npm install(update)  
+		3-3. hexo new poset start-git && vi start-git(edtior)  
+		3-4. hexo clean && hexo generate  
+		3-5. hexo server(check local server)  
+	4. Git Connect(repo)
+		4-1. npm install --save-dev hexo-deployer-git  
+		4-2. vi _config.yml  
+			* url : [JWBlog url]  
+			* type : git  
+			* repo : [github url]  
+		4-3. hexo clean && hexo deploy  
+	5. Theme(next) Apply  
+		5-1. install Theme  
+			* [hext_git](https://github.com/theme-next/hexo-theme-next)  
+			* git clone https://github.com/theme-next/hexo-theme-next themes/next  
+		5-2. vi _config.yml  
+			* theme : next  
+		5-3 hexo clean && hexo depoly  
+```  		
 ## TODO  
 
 - Git Review  
