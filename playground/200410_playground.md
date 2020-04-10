@@ -1,6 +1,6 @@
 # Basic Swift
 
-## Basic 1
+## Basic 1 
 
 ### 이름과 나이를 입력 받아 자신을 소개하는 글을 출력하는 함수
 
@@ -42,9 +42,11 @@ func calculator (_ num1: Int, _ num2: Int = 12){
     print ("\(num1) * \(num2) = \(result)")
 }
 calculator(3,4)
+```
 
-// 4과목의 시험 점수를 입력받아 평균 점수를 반환하는 함수
+#### 4과목의 시험 점수를 입력받아 평균 점수를 반환하는 함수
 
+```swift
 import UIKit
 
 func subjectAverage (_ c: Int, _ java: Int, _ swift: Int, _ python: Int) -> Int{
