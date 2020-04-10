@@ -4,7 +4,7 @@
 
 ### 이름과 나이를 입력 받아 자신을 소개하는 글을 출력하는 함수
 
-```
+```swift
 import UIKit
 
 func person (_ name: String,_ age: Int) -> String{
@@ -17,7 +17,7 @@ person("jwlee",26)
 
 ### 정수를 하나 입력받아 2의 배수 여부를 반환하는 함수
 
-```
+```java
 import UIKit
 
 func twoMultiple (_ num: Int){
@@ -34,7 +34,7 @@ twoMultiple(4)
 
 ### 정수를 두 개 입력 받아 곱한 결과를 반환하는 함수 (파라미터 하나의 기본 값은 10)
 
-```
+```js
 import UIKit
 
 func calculator (_ num1: Int, _ num2: Int = 12){
