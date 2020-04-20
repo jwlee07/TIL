@@ -51,7 +51,7 @@ enum Arithmetic {
         }
     }
 }
-var add = Arithmetic.addition
+var add = Arithmetic.addon
 var sub = Arithmetic.subtraction
 var mul = Arithmetic.multiplication
 var div = Arithmetic.division
