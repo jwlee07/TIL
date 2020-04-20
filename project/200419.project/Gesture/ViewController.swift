@@ -31,6 +31,7 @@ class ViewController: UIViewController {
         
         let tab = UITapGestureRecognizer (target: self, action: #selector(move))
         
+        
         self.view.addGestureRecognizer(left)
         self.view.addGestureRecognizer(right)
         self.view.addGestureRecognizer(up)
