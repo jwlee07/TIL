@@ -128,7 +128,7 @@ squareFor(num: 2, numMax: 5)
 
 //- 자연수 하나를 입력받아 각 자리수 숫자들의 합을 반환해주는 함수
 //(1234 인 경우 각 자리 숫자를 합치면 10)
-/*
+
 func numSum (numInput: Int) -> Int {
     var numBase = 1
     var numResult = 0
@@ -155,7 +155,7 @@ func numSum2 (numIntput2: Int) -> Int {
 return 1
 }
 numSum2 (numIntput2: 1234)
-*/
+
 
 
 //- 자연수 하나를 입력받아 1부터 해당 숫자 사이의 모든 숫자의 합을 구해 반환하는 함수를 만들되,
