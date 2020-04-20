@@ -1,4 +1,4 @@
-// 조건문, 반복문 연습
+## 조건문, 반복문 연습
 
 // 어떤 숫자가 주어졌을 때 짝수인지 홀수인지 출력 (switch의 where 절 이용)
 func numCheck (numInPut: Int) {
@@ -193,7 +193,7 @@ numCommomTwo()
 
 
 
-// Collection Type 연습
+## Collection Type 연습
 
 //1. ["p", "u", "p", "p", "y"] 라는 값을 가진 배열에서 마지막 "p" 문자 하나만 삭제하기
 func arrayRm () -> [String] {
