@@ -3,7 +3,6 @@ import UIKit
 //자연수 하나를 입력받아 각 자리수 숫자들의 합을 반환해주는 함수
 //(1234 인 경우 각 자리 숫자를 합치면 10)
 
-
 func numPlus (numInPut: Int) -> Int {
     let numString = String(numInPut)
     var numString2: String
@@ -20,7 +19,6 @@ numPlus(numInPut: 12345)
 
 // 함수를 이용해 풀었던 문제를 클로저로 변형해서 풀어보기
 // 클로저 Full Syntax <-> Optimized Syntax 변환 연습
-
 
 // 이름과 나이를 입력 받아 자신을 소개하는 글을 출력하는 함수
 let nameAge: (String,Int) -> String = {name, age in return "이름 : \(name) 나이 : \(age)"}
@@ -73,7 +71,6 @@ twoNumMulOpt(2,3)
 
 
 // 아래 두 클로저를 Syntax Optimization을 이용하여 최대한 줄여보기
-
 // 1 (변경 전)
 let someClosure: (String, String) -> Bool = { (s1: String, s2: String) -> Bool in
   let isAscending: Bool
