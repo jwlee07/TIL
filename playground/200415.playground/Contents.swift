@@ -1,5 +1,3 @@
-## 조건문, 반복문 연습
-
 // 어떤 숫자가 주어졌을 때 짝수인지 홀수인지 출력 (switch의 where 절 이용)
 func numCheck (numInPut: Int) {
     let numCal = numInPut % 2
@@ -193,8 +191,6 @@ numCommomTwo()
 
 
 
-## Collection Type 연습
-
 //1. ["p", "u", "p", "p", "y"] 라는 값을 가진 배열에서 마지막 "p" 문자 하나만 삭제하기
 func arrayRm () -> [String] {
     var array = ["p", "u", "p", "p", "y"]
@@ -326,10 +322,15 @@ func numCheck (numArr: [Int]) -> [Int:Int] {
     for index in numArr {
         if numDic[index] != nil {
             numDic[index]! += 1
+            print ("!= nil \(numDic)")
         } else {
             numDic[index] = 1
+            print ("else \(numDic)")
         }
     }
     return numDic
 }
 numCheck(numArr: [1,2,3,3,4,4])
+
+
+
