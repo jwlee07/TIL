@@ -12,7 +12,8 @@
 * [200417.playground](https://github.com/jwlee07/TIL/blob/master/playground/200417.playground/Contents.swift)
 * [200420.playground](https://github.com/jwlee07/TIL/blob/master/playground/200420.playground/Contents.swift)
 * [200421.playground](https://github.com/jwlee07/TIL/blob/master/playground/200421.playground/Contents.swift)
-
+* [200424.playground](https://github.com/jwlee07/TIL/blob/master/playground/200424.playground/Contents.swift)
+ 
 ## project (main viewController)
 * [200419.project](https://github.com/jwlee07/TIL/blob/master/project/200419.project/Gesture/ViewController.swift)
 * [200423.project](https://github.com/jwlee07/TIL/tree/master/project/200423.project)
