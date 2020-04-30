@@ -35,5 +35,5 @@
 
 ## iosAppGrammar
 * [200429-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200429-iosAppGrammar.md) : AppLifeCycle
-* [200430_1-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200430-iosAppGrammar.md) : UIGuide
-* [200430_2-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200430(2)-iosAppGrammar.md) : UIViewController
+* [200430_1-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200430_1-iosAppGrammar.md) : UIGuide
+* [200430_2-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200430_2-iosAppGrammar.md) : UIViewController
