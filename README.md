@@ -22,6 +22,7 @@
 * [200426.project](https://github.com/jwlee07/TIL/tree/master/project/200426.project)
 * [200427.project](https://github.com/jwlee07/TIL/tree/master/project/200427.project)
 * [200428.project](https://github.com/jwlee07/TIL/tree/master/project/200428.project)
+* [200429.project](https://github.com/jwlee07/TIL/tree/master/project/200429.project)
 
 ## swiftGrammar
 * [swiftGrammar-200411](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200411.md)
@@ -32,5 +33,7 @@
 * [swiftGrammar-200420](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200420.md)
 * [swiftGrammar-200421](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200421.md)
 
-## viewControllerGrammar
-* [200419-viewGrammar](https://github.com/jwlee07/TIL/blob/master/viewControllerGrammar/200419-viewGrmmar.md)
+## iosAppGrammar
+* [200429-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200429-iosAppGrammar.md) : AppLifeCycle
+* [200430-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200430-iosAppGrammar.md) : UIGuide
+* [200430(2)-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200430(2)-iosAppGrammar.md) : UIViewController
