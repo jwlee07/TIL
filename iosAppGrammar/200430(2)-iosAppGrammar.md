@@ -38,6 +38,8 @@
 
 #### ViewController Life Cycle
 ![UIViewController_5](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/image/UIViewController/UIViewController_5.png)
+
+-----
 ![UIViewController_6](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/image/UIViewController/UIViewController_6.png)
 
 
