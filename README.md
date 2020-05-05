@@ -26,7 +26,7 @@
 * [200429.project](https://github.com/jwlee07/TIL/tree/master/project/200429.project) : AlertView
 * [200501.project](https://github.com/jwlee07/TIL/tree/master/project/200501.project) : ChinaMenu
 * [200502.project](https://github.com/jwlee07/TIL/tree/master/project/200502.project) : Present,Dismiss,Alert Test
-* [200503.project](https://github.com/jwlee07/TIL/tree/master/project/200503.project) : Login,PayMenu
+* [200503.project](https://github.com/jwlee07/TIL/tree/master/project/200503.project) : Login,MenyPay
 
 ## swiftGrammar
 * [swiftGrammar-200411](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200411.md) : Basic Grammar
