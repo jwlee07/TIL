@@ -20,7 +20,7 @@ final class ViewController: UIViewController {
     static let alarmSw = "alarmSwitch"
   }
   
-  // MARK: Action Handler
+  
   
   @IBAction func saveData(_ button: UIButton) {
     // Userdefaults를 사용하여 alarm switch, datePicker의 값 저장
