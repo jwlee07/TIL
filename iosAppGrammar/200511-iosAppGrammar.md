@@ -28,7 +28,7 @@
 
 ## ARP (Automatic Reference Counting)
 * RC 자동 관리 방식 (WWDC 2011 발표)
-* 컴파일러가 개발자를 대신하여 메모리 관리 코드를 적절한 위치에 자동 삽입
+* 컴파일러가 개발자를 대신하여 메모리 관리 코드를 적절한 위치에 자동 삽입 된다
 * GC처럼 런타임이 아닌 컴파일 단에서 처리 (Heap에 대한 스캔 불필요 / 앱 일시 정지 현상 없음)
 
 ![MemoryManagement_3](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/image/MemoryManagement/MemoryManagement_3.png)
