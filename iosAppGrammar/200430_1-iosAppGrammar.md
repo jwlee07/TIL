@@ -9,7 +9,7 @@
 ![UIGuide_2](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/image/UIGuide/UIGuide_2.png)
 ![UIGuide_3](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/image/UIGuide/UIGuide_3.png)
 
-* 1Point 당 Pixels의 증가로 인한 변경된 디스플레이 출력
+* 1Point 당 Pixels의 증가로 인한 변경된 디스플레이 출력된다.
 
 ## UIView Content Mode
 
