@@ -56,11 +56,17 @@ final class ViewController: UIViewController {
       }
     }
     
-    calAction()
-  
     if symbol != "=" {
       symbolArr.insert(symbol, at: 0)
     }
+    
+    print ("firstNum : ", firstNum)
+    print ("secondNum : ", secondNum)
+    print ("equalsNum : ", equalsNum)
+    print ("symbol : ", symbol)
+    print ("symbolArr[0] : ", symbolArr[0])
+    
+    calAction()
     
     if symbolArr.count > 0 {
       if symbol == "=" {
@@ -90,24 +96,24 @@ final class ViewController: UIViewController {
     switch symbol {
     case "+":
       firstNum += secondNum
-      equalsNum += firstNum
+      equalsNum = firstNum
     case "-":
       firstNum -= secondNum
-      equalsNum += firstNum
+      equalsNum = firstNum
     case "×":
       if secondNum == 0 {
       firstNum *= (secondNum + 1)
       } else {
         firstNum *= secondNum
       }
-      equalsNum += firstNum
+      equalsNum = firstNum
     case "÷":
       if secondNum == 0 {
         firstNum /= (secondNum + 1)
       } else {
         firstNum /= secondNum
       }
-      equalsNum += firstNum
+      equalsNum = firstNum
     default:
       break
     }
@@ -126,4 +132,13 @@ final class ViewController: UIViewController {
     secondNum = 0
   }
 }
+
+/*
+ print ("firstNum : ", firstNum)
+ print ("secondNum : ", secondNum)
+ print ("equalsNum : ", equalsNum)
+ print ("symbol : ", symbol)
+ print ("symbolArr[0] : ", symbolArr[0])
+*/
+ 
 
