@@ -39,6 +39,7 @@
 * [200521.project](https://github.com/jwlee07/TIL/tree/master/project/200521.project) : calculator_complete
 * [200523.project](https://github.com/jwlee07/TIL/tree/master/project/200523.project) : wookiGame1_Incomplete
 * [200525.project](https://github.com/jwlee07/TIL/tree/master/project/200525.project) : tableView(numbers,refresh,section)
+* [200526.project](https://github.com/jwlee07/TIL/tree/master/project/200526.project) : tableView(customCell)
 
 ## swiftGrammar
 * [swiftGrammar-200411](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200411.md) : Basic Grammar
