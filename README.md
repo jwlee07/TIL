@@ -41,6 +41,7 @@
 * [200525.project](https://github.com/jwlee07/TIL/tree/master/project/200525.project) : tableView(numbers,refresh,section)
 * [200526.project](https://github.com/jwlee07/TIL/tree/master/project/200526.project) : tableView(customCell)
 * [200527.project](https://github.com/jwlee07/TIL/tree/master/project/200527.project) : navigation, tabbar
+* [200530.project](https://github.com/jwlee07/TIL/tree/master/project/200530.project) : dominosOrder_Incomplete
 
 ## swiftGrammar
 * [swiftGrammar-200411](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200411.md) : Basic Grammar
