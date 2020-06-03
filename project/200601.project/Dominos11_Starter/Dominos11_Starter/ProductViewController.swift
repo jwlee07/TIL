@@ -4,7 +4,6 @@
 //
 //  Created by Lee on 2020/05/26.
 //  Copyright © 2020 Kira. All rights reserved.
-//
 
 import UIKit
 
