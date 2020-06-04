@@ -44,7 +44,7 @@
 * [200530.project](https://github.com/jwlee07/TIL/tree/master/project/200530.project) : dominosOrder_v1_Incomplete
 * [200531.project](https://github.com/jwlee07/TIL/tree/master/project/200531.project) : dominosOrder_v2_Incomplete
 * [200601.project](https://github.com/jwlee07/TIL/tree/master/project/200601.project) : dominosOrder_v3_complete
-* [200603.project](https://github.com/jwlee07/TIL/tree/master/project/200603.project) : phoneCall, messagesender
+* [200603.project](https://github.com/jwlee07/TIL/tree/master/project/200603.project) : PhoneCall,MessageSender_v1_Incomplete 
 
 ## swiftGrammar
 * [swiftGrammar-200411](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200411.md) : Basic Grammar
