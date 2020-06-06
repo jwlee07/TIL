@@ -1,0 +1,445 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4962576C248B6E1F00925C06 /* GroupDetailInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4962576B248B6E1F00925C06 /* GroupDetailInfoViewController.swift */; };
+		4962576E248B7E6F00925C06 /* GroupSetUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4962576D248B7E6E00925C06 /* GroupSetUpViewController.swift */; };
+		49625770248B83B200925C06 /* GroupRemoveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4962576F248B83B200925C06 /* GroupRemoveViewController.swift */; };
+		AF5B4D472488C7C500BB2A97 /* iPhoneBellSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = AF5B4D462488C7C500BB2A97 /* iPhoneBellSound.mp3 */; };
+		AF5B4D4E248903F100BB2A97 /* MessageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5B4D4B248903F100BB2A97 /* MessageCell.swift */; };
+		AF5B4D4F248903F100BB2A97 /* MessageSignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5B4D4C248903F100BB2A97 /* MessageSignUpViewController.swift */; };
+		AF5B4D50248903F100BB2A97 /* UserInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5B4D4D248903F100BB2A97 /* UserInfoViewController.swift */; };
+		AF5F440D2489D1BE00A4B598 /* SoundRecordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5F440C2489D1BE00A4B598 /* SoundRecordViewController.swift */; };
+		AF9BB4722487761B0080DD75 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9BB4712487761B0080DD75 /* AppDelegate.swift */; };
+		AF9BB4742487761B0080DD75 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9BB4732487761B0080DD75 /* SceneDelegate.swift */; };
+		AF9BB4762487761B0080DD75 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9BB4752487761B0080DD75 /* MainViewController.swift */; };
+		AF9BB4792487761B0080DD75 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF9BB4772487761B0080DD75 /* Main.storyboard */; };
+		AF9BB47B2487761D0080DD75 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF9BB47A2487761D0080DD75 /* Assets.xcassets */; };
+		AF9BB47E2487761D0080DD75 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF9BB47C2487761D0080DD75 /* LaunchScreen.storyboard */; };
+		AF9BB487248783BC0080DD75 /* SaveData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9BB486248783BC0080DD75 /* SaveData.swift */; };
+		AF9BB48C248789850080DD75 /* TimeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9BB48B248789850080DD75 /* TimeViewController.swift */; };
+		AF9BB48E24878FF60080DD75 /* CallerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9BB48D24878FF60080DD75 /* CallerViewController.swift */; };
+		AF9BB4902487AD4B0080DD75 /* PhoneCallStyleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9BB48F2487AD4B0080DD75 /* PhoneCallStyleViewController.swift */; };
+		AF9BB4932487B06C0080DD75 /* CallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9BB4922487B06C0080DD75 /* CallView.swift */; };
+		AF9BB4952487BEA20080DD75 /* ReceiveCallViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9BB4942487BEA20080DD75 /* ReceiveCallViewController.swift */; };
+		AF9BB4972487C52B0080DD75 /* ButtonLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF9BB4962487C52B0080DD75 /* ButtonLabelView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4962576B248B6E1F00925C06 /* GroupDetailInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupDetailInfoViewController.swift; sourceTree = "<group>"; };
+		4962576D248B7E6E00925C06 /* GroupSetUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupSetUpViewController.swift; sourceTree = "<group>"; };
+		4962576F248B83B200925C06 /* GroupRemoveViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupRemoveViewController.swift; sourceTree = "<group>"; };
+		AF5B4D462488C7C500BB2A97 /* iPhoneBellSound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = iPhoneBellSound.mp3; sourceTree = "<group>"; };
+		AF5B4D4B248903F100BB2A97 /* MessageCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MessageCell.swift; sourceTree = "<group>"; };
+		AF5B4D4C248903F100BB2A97 /* MessageSignUpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MessageSignUpViewController.swift; sourceTree = "<group>"; };
+		AF5B4D4D248903F100BB2A97 /* UserInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserInfoViewController.swift; sourceTree = "<group>"; };
+		AF5F440C2489D1BE00A4B598 /* SoundRecordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundRecordViewController.swift; sourceTree = "<group>"; };
+		AF9BB46E2487761B0080DD75 /* 구해줘콜미.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "구해줘콜미.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AF9BB4712487761B0080DD75 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		AF9BB4732487761B0080DD75 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		AF9BB4752487761B0080DD75 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		AF9BB4782487761B0080DD75 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		AF9BB47A2487761D0080DD75 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AF9BB47D2487761D0080DD75 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		AF9BB47F2487761D0080DD75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF9BB486248783BC0080DD75 /* SaveData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaveData.swift; sourceTree = "<group>"; };
+		AF9BB48B248789850080DD75 /* TimeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeViewController.swift; sourceTree = "<group>"; };
+		AF9BB48D24878FF60080DD75 /* CallerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CallerViewController.swift; sourceTree = "<group>"; };
+		AF9BB48F2487AD4B0080DD75 /* PhoneCallStyleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneCallStyleViewController.swift; sourceTree = "<group>"; };
+		AF9BB4922487B06C0080DD75 /* CallView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CallView.swift; sourceTree = "<group>"; };
+		AF9BB4942487BEA20080DD75 /* ReceiveCallViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReceiveCallViewController.swift; sourceTree = "<group>"; };
+		AF9BB4962487C52B0080DD75 /* ButtonLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonLabelView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AF9BB46B2487761B0080DD75 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AF5B4D452488C7AD00BB2A97 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				AF5B4D462488C7C500BB2A97 /* iPhoneBellSound.mp3 */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		AF5B4D4A248903D100BB2A97 /* Message */ = {
+			isa = PBXGroup;
+			children = (
+				4962576D248B7E6E00925C06 /* GroupSetUpViewController.swift */,
+				AF5B4D4C248903F100BB2A97 /* MessageSignUpViewController.swift */,
+				4962576F248B83B200925C06 /* GroupRemoveViewController.swift */,
+				4962576B248B6E1F00925C06 /* GroupDetailInfoViewController.swift */,
+				AF5B4D4D248903F100BB2A97 /* UserInfoViewController.swift */,
+				AF5B4D4B248903F100BB2A97 /* MessageCell.swift */,
+			);
+			path = Message;
+			sourceTree = "<group>";
+		};
+		AF9BB4652487761B0080DD75 = {
+			isa = PBXGroup;
+			children = (
+				AF9BB4702487761B0080DD75 /* PhoneCallProject */,
+				AF9BB46F2487761B0080DD75 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AF9BB46F2487761B0080DD75 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AF9BB46E2487761B0080DD75 /* 구해줘콜미.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AF9BB4702487761B0080DD75 /* PhoneCallProject */ = {
+			isa = PBXGroup;
+			children = (
+				AF9BB4712487761B0080DD75 /* AppDelegate.swift */,
+				AF9BB4732487761B0080DD75 /* SceneDelegate.swift */,
+				AF9BB485248783A30080DD75 /* ViewController */,
+				AF9BB4772487761B0080DD75 /* Main.storyboard */,
+				AF9BB488248783C10080DD75 /* Data */,
+				AF5B4D452488C7AD00BB2A97 /* Resource */,
+				AF9BB47A2487761D0080DD75 /* Assets.xcassets */,
+				AF9BB47C2487761D0080DD75 /* LaunchScreen.storyboard */,
+				AF9BB47F2487761D0080DD75 /* Info.plist */,
+			);
+			path = PhoneCallProject;
+			sourceTree = "<group>";
+		};
+		AF9BB485248783A30080DD75 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				AF9BB4752487761B0080DD75 /* MainViewController.swift */,
+				AF9BB4912487AE560080DD75 /* PhoneCall */,
+				AF5B4D4A248903D100BB2A97 /* Message */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		AF9BB488248783C10080DD75 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				AF9BB486248783BC0080DD75 /* SaveData.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		AF9BB4912487AE560080DD75 /* PhoneCall */ = {
+			isa = PBXGroup;
+			children = (
+				AF9BB48F2487AD4B0080DD75 /* PhoneCallStyleViewController.swift */,
+				AF9BB4942487BEA20080DD75 /* ReceiveCallViewController.swift */,
+				AF9BB48B248789850080DD75 /* TimeViewController.swift */,
+				AF9BB48D24878FF60080DD75 /* CallerViewController.swift */,
+				AF9BB4922487B06C0080DD75 /* CallView.swift */,
+				AF9BB4962487C52B0080DD75 /* ButtonLabelView.swift */,
+				AF5F440C2489D1BE00A4B598 /* SoundRecordViewController.swift */,
+			);
+			path = PhoneCall;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AF9BB46D2487761B0080DD75 /* PhoneCallProject */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AF9BB4822487761D0080DD75 /* Build configuration list for PBXNativeTarget "PhoneCallProject" */;
+			buildPhases = (
+				AF9BB46A2487761B0080DD75 /* Sources */,
+				AF9BB46B2487761B0080DD75 /* Frameworks */,
+				AF9BB46C2487761B0080DD75 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PhoneCallProject;
+			productName = PhoneCallProject;
+			productReference = AF9BB46E2487761B0080DD75 /* 구해줘콜미.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AF9BB4662487761B0080DD75 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1150;
+				LastUpgradeCheck = 1150;
+				ORGANIZATIONNAME = jwcheon;
+				TargetAttributes = {
+					AF9BB46D2487761B0080DD75 = {
+						CreatedOnToolsVersion = 11.5;
+					};
+				};
+			};
+			buildConfigurationList = AF9BB4692487761B0080DD75 /* Build configuration list for PBXProject "PhoneCallProject" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AF9BB4652487761B0080DD75;
+			productRefGroup = AF9BB46F2487761B0080DD75 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AF9BB46D2487761B0080DD75 /* PhoneCallProject */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AF9BB46C2487761B0080DD75 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AF5B4D472488C7C500BB2A97 /* iPhoneBellSound.mp3 in Resources */,
+				AF9BB47E2487761D0080DD75 /* LaunchScreen.storyboard in Resources */,
+				AF9BB47B2487761D0080DD75 /* Assets.xcassets in Resources */,
+				AF9BB4792487761B0080DD75 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AF9BB46A2487761B0080DD75 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AF5B4D4E248903F100BB2A97 /* MessageCell.swift in Sources */,
+				AF9BB4932487B06C0080DD75 /* CallView.swift in Sources */,
+				AF5B4D4F248903F100BB2A97 /* MessageSignUpViewController.swift in Sources */,
+				AF9BB4762487761B0080DD75 /* MainViewController.swift in Sources */,
+				AF9BB48E24878FF60080DD75 /* CallerViewController.swift in Sources */,
+				AF9BB4952487BEA20080DD75 /* ReceiveCallViewController.swift in Sources */,
+				49625770248B83B200925C06 /* GroupRemoveViewController.swift in Sources */,
+				4962576E248B7E6F00925C06 /* GroupSetUpViewController.swift in Sources */,
+				4962576C248B6E1F00925C06 /* GroupDetailInfoViewController.swift in Sources */,
+				AF5B4D50248903F100BB2A97 /* UserInfoViewController.swift in Sources */,
+				AF5F440D2489D1BE00A4B598 /* SoundRecordViewController.swift in Sources */,
+				AF9BB48C248789850080DD75 /* TimeViewController.swift in Sources */,
+				AF9BB4722487761B0080DD75 /* AppDelegate.swift in Sources */,
+				AF9BB487248783BC0080DD75 /* SaveData.swift in Sources */,
+				AF9BB4902487AD4B0080DD75 /* PhoneCallStyleViewController.swift in Sources */,
+				AF9BB4742487761B0080DD75 /* SceneDelegate.swift in Sources */,
+				AF9BB4972487C52B0080DD75 /* ButtonLabelView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		AF9BB4772487761B0080DD75 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AF9BB4782487761B0080DD75 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		AF9BB47C2487761D0080DD75 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AF9BB47D2487761D0080DD75 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		AF9BB4802487761D0080DD75 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		AF9BB4812487761D0080DD75 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AF9BB4832487761D0080DD75 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 25WA95NQNW;
+				INFOPLIST_FILE = PhoneCallProject/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.JWiOS.PhoneCallProject;
+				PRODUCT_NAME = "구해줘콜미";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		AF9BB4842487761D0080DD75 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 25WA95NQNW;
+				INFOPLIST_FILE = PhoneCallProject/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.JWiOS.PhoneCallProject;
+				PRODUCT_NAME = "구해줘콜미";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AF9BB4692487761B0080DD75 /* Build configuration list for PBXProject "PhoneCallProject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AF9BB4802487761D0080DD75 /* Debug */,
+				AF9BB4812487761D0080DD75 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AF9BB4822487761D0080DD75 /* Build configuration list for PBXNativeTarget "PhoneCallProject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AF9BB4832487761D0080DD75 /* Debug */,
+				AF9BB4842487761D0080DD75 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AF9BB4662487761B0080DD75 /* Project object */;
+}
