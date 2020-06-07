@@ -59,6 +59,7 @@ protocol Human {
   func walk()
 }
 
+
 class User: Human  {
 	안의 고정적으로 입력해야할 프로토콜에서 선언하였던 값들이 생성
 }
