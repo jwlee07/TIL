@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="nbT-oq-4fC">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="Stack View standard spacing" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="245-RM-wet">
+            <objects>
+                <viewController id="nbT-oq-4fC" customClass="ViewController" customModule="ImagePickerControllerExample" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="ZVN-6W-gxY">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="rdM-aA-0jV">
+                                <rect key="frame" x="0.0" y="94" width="414" height="768"/>
+                                <color key="backgroundColor" red="0.92143100499999997" green="0.92145264149999995" blue="0.92144101860000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </imageView>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="equalSpacing" alignment="center" spacingType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="nFq-oS-Ojm">
+                                <rect key="frame" x="0.0" y="44" width="414" height="50"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="  " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QOU-Ji-i8h">
+                                        <rect key="frame" x="0.0" y="15" width="9" height="20.5"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="8" id="tEw-c0-miQ"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dxV-Nz-B96">
+                                        <rect key="frame" x="28.5" y="7" width="35" height="36"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                        <state key="normal" title="앨범"/>
+                                        <connections>
+                                            <action selector="pickImage:" destination="nbT-oq-4fC" eventType="touchUpInside" id="T1a-UO-X7B"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="l5M-xf-aZT">
+                                        <rect key="frame" x="82.5" y="7" width="52" height="36"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                        <state key="normal" title="카메라"/>
+                                        <connections>
+                                            <action selector="takePicture:" destination="nbT-oq-4fC" eventType="touchUpInside" id="UT1-Fa-Jlf"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WxU-vY-2Dx">
+                                        <rect key="frame" x="154" y="7" width="87" height="36"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                        <state key="normal" title="딜레이촬영"/>
+                                        <connections>
+                                            <action selector="takePictureWithDelay:" destination="nbT-oq-4fC" eventType="touchUpInside" id="0CO-Oa-AmC"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="K2m-F2-HlN">
+                                        <rect key="frame" x="260" y="7" width="52" height="36"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                        <state key="normal" title="동영상"/>
+                                        <connections>
+                                            <action selector="recordingVideo:" destination="nbT-oq-4fC" eventType="touchUpInside" id="Q9G-KL-yjx"/>
+                                        </connections>
+                                    </button>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text=" " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Xpn-hP-Rzs">
+                                        <rect key="frame" x="331.5" y="15" width="16" height="20.5"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="16" id="57L-ti-VrZ"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vfm-fn-hwz">
+                                        <rect key="frame" x="366.5" y="13.5" width="20" height="24"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                        <state key="normal" backgroundImage="arrow.right.arrow.left" catalog="system"/>
+                                        <connections>
+                                            <action selector="toggleAllowsEditing:" destination="nbT-oq-4fC" eventType="touchUpInside" id="krw-lm-2eA"/>
+                                        </connections>
+                                    </button>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text=" " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="b1r-R6-YUD">
+                                        <rect key="frame" x="406" y="15" width="8" height="20.5"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="8" id="jRD-2N-luM"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="eMn-DM-BSF"/>
+                                </constraints>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="nFq-oS-Ojm" firstAttribute="top" secondItem="CLI-v9-pdJ" secondAttribute="top" id="36D-LR-hbo"/>
+                            <constraint firstItem="nFq-oS-Ojm" firstAttribute="leading" secondItem="CLI-v9-pdJ" secondAttribute="leading" id="Kjp-ZB-PLb"/>
+                            <constraint firstItem="CLI-v9-pdJ" firstAttribute="trailing" secondItem="rdM-aA-0jV" secondAttribute="trailing" id="VPo-0O-r7y"/>
+                            <constraint firstItem="CLI-v9-pdJ" firstAttribute="trailing" secondItem="nFq-oS-Ojm" secondAttribute="trailing" id="cr3-cm-eMM"/>
+                            <constraint firstItem="CLI-v9-pdJ" firstAttribute="bottom" secondItem="rdM-aA-0jV" secondAttribute="bottom" id="dJ8-XT-Dd7"/>
+                            <constraint firstItem="rdM-aA-0jV" firstAttribute="top" secondItem="nFq-oS-Ojm" secondAttribute="bottom" id="ryt-kF-u29"/>
+                            <constraint firstItem="rdM-aA-0jV" firstAttribute="leading" secondItem="CLI-v9-pdJ" secondAttribute="leading" id="xFN-8h-Suc"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="CLI-v9-pdJ"/>
+                    </view>
+                    <connections>
+                        <outlet property="imageView" destination="rdM-aA-0jV" id="glg-Je-SoT"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="EqI-m1-YmT" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="11.594202898550726" y="64.955357142857139"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="arrow.right.arrow.left" catalog="system" width="119" height="128"/>
+    </resources>
+</document>
