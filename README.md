@@ -51,6 +51,7 @@
 * [200608.project](https://github.com/jwlee07/TIL/tree/master/project/200608.project) : ImagePicker, ImageAnimation
 * [200609.project](https://github.com/jwlee07/TIL/tree/master/project/200609.project) : UIViewAnimation
 * [200611.project](https://github.com/jwlee07/TIL/tree/master/project/200611.project) : FindFruit
+* [200616.project](https://github.com/jwlee07/TIL/tree/master/project/200616.project) : CollectionView_1	
 
 ## swiftGrammar
 * [swiftGrammar-200411](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200411.md) : Basic Grammar
