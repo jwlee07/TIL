@@ -1,7 +1,8 @@
 # TIL
 
 ## git
-* [200408-basic_git](https://github.com/jwlee07/TIL/blob/master/git/200408-basic_git.md) : BasicGitHexo
+* [200408-basic_git](https://github.com/jwlee07/TIL/blob/master/git/200408-basic_git.md) : git,hexo
+* [200617-basic_git](https://github.com/jwlee07/TIL/tree/master/git) : branch,girFlow
 
 ## playground
 * [200410_playground](https://github.com/jwlee07/TIL/blob/master/playground/200410.playground/Contents.swift) : BasicAlgorithm_1
