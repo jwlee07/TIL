@@ -22,7 +22,6 @@ Remote -(fetch)-> Repository
 Remote -(pull)-> Repository, Workspace  
 Remote -(clone)-> Workspace  
 ```		
-
 ##### Git Syntex  
 
 ```
