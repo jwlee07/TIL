@@ -1,5 +1,21 @@
 # TIL
 
+## swiftGrammar
+* [swiftGrammar-200411](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200411.md) : Basic Grammar
+* [swiftGrammar-200412](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200412.md) : OPtional, Collection, Type, Function, Closure
+* [swiftGrammar-200415](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200415.md) : Closure, Enum
+* [swiftGrammar-200416](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200416.md) : Optional, Enum
+* [swiftGrammar-200418](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200418.md) : Class, Extension, Protocol, HighOrderFunc
+* [swiftGrammar-200420](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200420.md) : OOP (Class)
+* [swiftGrammar-200421](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200421.md) : Class (Inheritance)
+* [swiftGrammar-200615](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200615.md) : High-order function
+* [swiftGrammar-200616](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200616.md) : UICollectionView
+
+## iosAppGrammar
+* [200429-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200429-iosAppGrammar.md) : AppLifeCycle
+* [200430_1-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200430_1-iosAppGrammar.md) : UIGuide
+* [200430_2-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200430_2-iosAppGrammar.md) : UIViewController
+
 ## playground
 * [200410_playground](https://github.com/jwlee07/TIL/blob/master/playground/200410.playground/Contents.swift) : BasicAlgorithm_1
 * [200413.playground](https://github.com/jwlee07/TIL/blob/master/playground/200413.playground/Contents.swift) : BasicAlgorithm_2
@@ -49,22 +65,6 @@
 * [200609.project](https://github.com/jwlee07/TIL/tree/master/project/200609.project) : UIViewAnimation
 * [200611.project](https://github.com/jwlee07/TIL/tree/master/project/200611.project) : FindFruit
 * [200616.project](https://github.com/jwlee07/TIL/tree/master/project/200616.project) : CollectionView_1	
-
-## swiftGrammar
-* [swiftGrammar-200411](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200411.md) : Basic Grammar
-* [swiftGrammar-200412](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200412.md) : OPtional, Collection, Type, Function, Closure
-* [swiftGrammar-200415](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200415.md) : Closure, Enum
-* [swiftGrammar-200416](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200416.md) : Optional, Enum
-* [swiftGrammar-200418](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200418.md) : Class, Extension, Protocol, HighOrderFunc
-* [swiftGrammar-200420](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200420.md) : OOP (Class)
-* [swiftGrammar-200421](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200421.md) : Class (Inheritance)
-* [swiftGrammar-200615](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200615.md) : High-order function
-* [swiftGrammar-200616](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200616.md) : UICollectionView
-
-## iosAppGrammar
-* [200429-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200429-iosAppGrammar.md) : AppLifeCycle
-* [200430_1-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200430_1-iosAppGrammar.md) : UIGuide
-* [200430_2-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200430_2-iosAppGrammar.md) : UIViewController
 
 ## git
 * [200408-basic_git](https://github.com/jwlee07/TIL/blob/master/git/200408-basic_git.md) : git,hexo
