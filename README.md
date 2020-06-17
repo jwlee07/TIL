@@ -1,9 +1,5 @@
 # TIL
 
-## git
-* [200408-basic_git](https://github.com/jwlee07/TIL/blob/master/git/200408-basic_git.md) : git,hexo
-* [200617-basic_git](https://github.com/jwlee07/TIL/tree/master/git) : branch,girFlow
-
 ## playground
 * [200410_playground](https://github.com/jwlee07/TIL/blob/master/playground/200410.playground/Contents.swift) : BasicAlgorithm_1
 * [200413.playground](https://github.com/jwlee07/TIL/blob/master/playground/200413.playground/Contents.swift) : BasicAlgorithm_2
@@ -69,3 +65,7 @@
 * [200429-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200429-iosAppGrammar.md) : AppLifeCycle
 * [200430_1-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200430_1-iosAppGrammar.md) : UIGuide
 * [200430_2-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200430_2-iosAppGrammar.md) : UIViewController
+
+## git
+* [200408-basic_git](https://github.com/jwlee07/TIL/blob/master/git/200408-basic_git.md) : git,hexo
+* [200617-basic_git](https://github.com/jwlee07/TIL/blob/master/git/200617-basic_git.md) : branch,girFlow 
