@@ -66,6 +66,7 @@
 * [200611.project](https://github.com/jwlee07/TIL/tree/master/project/200611.project) : FindFruit
 * [200616.project](https://github.com/jwlee07/TIL/tree/master/project/200616.project) : CollectionView_1	
 * [200618.project](https://github.com/jwlee07/TIL/tree/master/project/200618.project) : CollectionView_2
+* [200619.project](https://github.com/jwlee07/TIL/tree/master/project/200619.project) : SlackNewWorkspaceUI_v1_Incomplete
 
 ## git
 * [200408-basic_git](https://github.com/jwlee07/TIL/blob/master/git/200408-basic_git.md) : git,hexo
