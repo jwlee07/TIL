@@ -3,7 +3,6 @@
 //  SlackNewWorkspaceUI
 //
 //  Copyright © 2020 giftbot. All rights reserved.
-//
 
 import UIKit
 
