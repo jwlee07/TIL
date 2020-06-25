@@ -70,6 +70,7 @@
 * [200620.project](https://github.com/jwlee07/TIL/tree/master/project/200620.project) : SlackNewWorkspaceUI_v2_complete	
 * [200623.project](https://github.com/jwlee07/TIL/tree/master/project/200623.project) : MapKit
 * [200624.project](https://github.com/jwlee07/TIL/tree/master/project/200624.project) : carKategorie
+* [200625.project](https://github.com/jwlee07/TIL/tree/master/project/200625.project) : GestureRecognizer
 
 ## git
 * [200408-basic_git](https://github.com/jwlee07/TIL/blob/master/git/200408-basic_git.md) : git,hexo
