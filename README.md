@@ -9,12 +9,13 @@
 * [swiftGrammar-200420](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200420.md) : OOP (Class)
 * [swiftGrammar-200421](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200421.md) : Class (Inheritance)
 * [swiftGrammar-200615](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200615.md) : High-order function
-* [swiftGrammar-200616](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200616.md) : UICollectionView
 
 ## iosAppGrammar
 * [200429-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200429-iosAppGrammar.md) : AppLifeCycle
 * [200430_1-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200430_1-iosAppGrammar.md) : UIGuide
 * [200430_2-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200430_2-iosAppGrammar.md) : UIViewController
+* [200616-iosAppGrammar.md](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200616-iosAppGrammar.md) : UICollectionView
+* [200629-iosAppGrammar.md](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200629-iosAppGrammar.md) : Core Location
 
 ## playground
 * [200410_playground](https://github.com/jwlee07/TIL/blob/master/playground/200410.playground/Contents.swift) : BasicAlgorithm_1
