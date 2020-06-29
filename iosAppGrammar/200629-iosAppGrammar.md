@@ -11,7 +11,7 @@
 - 위치 업데이트 / 지역 모니터링 / iBeacon / 장치 방향 / 좌표 변환 등의 역할 수행
 ```
 
-### Request Authorization
+## Request Authorization
 
 ![Core Location_1](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/image/Core%20Location/Core%20Location_1.png)
 
@@ -37,7 +37,7 @@ locationManger.requestWhenInUseAuthorization()
 locationManger.requestAlwaysAuthorization()
 ```
 
-### Info.plist - Usage Description
+## Info.plist - Usage Description
 
 * Always authorization 
 
@@ -52,13 +52,13 @@ iOS 11 이상 - NSLocationAlwaysAndWhenInUseUsageDescription 키 등록 iOS 10 �
 NSLocationWhenInUseUsageDescription 키 등록
 ```
 
-### Request Authorization
+## Request Authorization
 
 ![Core Location_2](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/image/Core%20Location/Core%20Location_2.png)
 
 ![Core Location_3](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/image/Core%20Location/Core%20Location_3.png)
 
-### CLAuthorizationStatus
+## CLAuthorizationStatus
 
 ```swift
 switch CLLocationManager.authorizationStatus() {
@@ -74,7 +74,7 @@ enableMyAlwaysFeatures() // Enable any of your app's location features
 }
 ```
 
-### Delegate - didChangeAuthorization
+## Delegate - didChangeAuthorization
 
 ```swift
   func locationManager(_ manager: CLLocationManager, didChangeAuthorization status: CLAuthorizationStatus) {
@@ -87,7 +87,7 @@ enableMyAlwaysFeatures() // Enable any of your app's location features
   }
 ```
 
-### Determining the Availability
+## Determining the Availability
 
 * 위치 서비스를 사용할 수 없는 상황
 ```
@@ -108,7 +108,7 @@ func isMonitoringAvailable(for regionClass: Swift.AnyClass) -> Bool
 func isRangingAvailable() -> Bool
 ```
 
-### Getting the User’s Location Data
+## Getting the User’s Location Data
 
 * Standard location service (When-in-use or Always authorization)
 ```
@@ -130,11 +130,11 @@ func isRangingAvailable() -> Bool
 - 사용자의 행동 패턴을 파악하고 그 지식을 앱의 다른 부분에 적용하기 위한 서비스로 활용
 ```
 
-### Represent Location Data
+## Represent Location Data
 
 ![Core Location_4](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/image/Core%20Location/Core%20Location_4.png)
 
-### CLLocation
+## CLLocation
 
 ```
 - 시스템으로부터 전달되는 위도, 경도, 고도 및 코스 정보 등을 담고 있는 객체
