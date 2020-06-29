@@ -28,6 +28,7 @@
 * [200424.playground](https://github.com/jwlee07/TIL/blob/master/playground/200424.playground/Contents.swift) : BasicAlgorithm_9
 * [200425.playground](https://github.com/jwlee07/TIL/blob/master/playground/200425.playground/Contents.swift) : BasicAlgorithm_10
 * [200504.playground](https://github.com/jwlee07/TIL/blob/master/playground/200504.playground/Contents.swift) : TypeCasting
+* [200629.playground](https://github.com/jwlee07/TIL/tree/master/playground/200629.playground) : LinkedListStack
 
 ## project
 * [200419.project](https://github.com/jwlee07/TIL/tree/master/project/200419.project) : Gesture
