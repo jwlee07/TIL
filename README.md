@@ -11,6 +11,7 @@
 * [swiftGrammar-200615](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200615.md) : High-order function
 * [swiftGrammar-200630](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200630.md) : Data Structure
 * [swiftGrammar-200701](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200701.md) : Sorting Algorithm
+* [swiftGrammar-200702](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200702.md) : GCD
 
 ## iosAppGrammar
 * [200429-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200429-iosAppGrammar.md) : AppLifeCycle
@@ -76,6 +77,8 @@
 * [200623.project](https://github.com/jwlee07/TIL/tree/master/project/200623.project) : MapKit
 * [200624.project](https://github.com/jwlee07/TIL/tree/master/project/200624.project) : carKategorie
 * [200625.project](https://github.com/jwlee07/TIL/tree/master/project/200625.project) : GestureRecognizer
+* [200701.project](https://github.com/jwlee07/TIL/tree/master/project/200701.project) : JSON Parsing
+* [200702.project](https://github.com/jwlee07/TIL/tree/master/project/200702.project) : DisPatchQueue
 
 ## git
 * [200408-basic_git](https://github.com/jwlee07/TIL/blob/master/git/200408-basic_git.md) : git,hexo
