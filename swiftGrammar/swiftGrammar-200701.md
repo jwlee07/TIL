@@ -6,9 +6,9 @@
 
 ## Flowchart
 
-![Algorithm_1]()
+![Algorithm_1](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/image/Algorithm/Algorithm_1.png)
 
-![Algorithm_2]()
+![Algorithm_2](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/image/Algorithm/Algorithm_2.png)
 
 
 ## Condition
@@ -40,7 +40,7 @@
 	- (n-1) + (n-2) + ... + 2 + 1 => n(n-1) / 2
 ```
 
-![Algorithm_3]()
+![Algorithm_3](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/image/Algorithm/Algorithm_3.png)
 
 ### Code
 
@@ -75,6 +75,8 @@ func bubbleSort(input: inout [Int]) {
 - 시간복잡도 : O(n2)
 ```
 
+![Algorithm_4](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/image/Algorithm/Algorithm_4.png)
+
 ### Code
 
 ```swift
@@ -89,7 +91,12 @@ func selectionSort(input: inout [Int]) {
     input.swapAt(firstIndex, minIndex)
   }
 }
+```
 
-``
+## 추가예정
+
+* Insertion Sort
+* Quick Sort
+* Merge Sort
 
 
