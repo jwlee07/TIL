@@ -82,4 +82,4 @@
 
 ## git
 * [200408-basic_git](https://github.com/jwlee07/TIL/blob/master/git/200408-basic_git.md) : git,hexo
-* [200617-basic_git](https://github.com/jwlee07/TIL/blob/master/git/200617-basic_git.md) : branch,girFlow 
+* [200617-basic_git](https://github.com/jwlee07/TIL/blob/master/git/200617-basic_git.md) : branch,girFlow   
