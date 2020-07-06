@@ -12,6 +12,8 @@
 * [swiftGrammar-200630](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200630.md) : Data Structure
 * [swiftGrammar-200701](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200701.md) : Sorting Algorithm
 * [swiftGrammar-200702](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200702.md) : GCD
+* [swiftGrammar-200705](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200705.md) : JSON
+* [swiftGrammar-200706](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200706.md) : URL
 
 ## iosAppGrammar
 * [200429-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200429-iosAppGrammar.md) : AppLifeCycle
