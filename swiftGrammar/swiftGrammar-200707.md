@@ -16,15 +16,15 @@
 - A type that can decode values from a native format into in-memory representations.
 ```
 
-![Codable_1]()
+![Codable_1](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/image/Codable/Codable_1.png)
 
 ## Encode & Decode
 
-![Codable_2]()
+![Codable_2](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/image/Codable/Codable_2.png)
 
 ## Built-in Decoder / Encoder
 
-![Codable_3]()
+![Codable_3](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/image/Codable/Codable_3.png)
 
 ## Use Encoder
 
@@ -247,3 +247,36 @@ do {
 }`
 ```
 
+## Container Protocols
+
+```
+- KeyedContainer : 딕셔너리 타입의 데이터에 사용 
+- UnkeyedContainer : 배열 타입의 데이터에 사용 
+- SingleValueContainer : 단일 값을 가진 데이터에 사용
+```
+
+## Encoding Error
+
+```swift
+/// An error that occurs during the encoding of a value.
+public enum EncodingError : Error {
+/// 주어진 값으로 인코딩을 하지 못할 때
+case invalidValue(Any, EncodingError.Context)
+}
+```
+
+## Decoding Error
+
+```swift
+/// An error that occurs during the decoding of a value.
+public enum DecodingError : Error {
+/// 프로퍼티 타입 미스매치
+case typeMismatch(Any.Type, DecodingError.Context)
+/// 디코딩할 데이터의 키에 해당하는 Value 가 없을 경우
+case valueNotFound(Any.Type, DecodingError.Context)]
+/// 디코딩할 데이터에 지정한 키가 없는 경우
+case keyNotFound(CodingKey, DecodingError.Context)
+/// 데이터가 망가졌을 경우
+case dataCorrupted(DecodingError.Context)
+}
+```
