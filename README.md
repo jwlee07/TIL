@@ -14,6 +14,7 @@
 * [swiftGrammar-200702](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200702.md) : GCD
 * [swiftGrammar-200705](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200705.md) : JSON
 * [swiftGrammar-200706](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200706.md) : URL
+* [swiftGrammar-200707](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200707.md) : Codable
 
 ## iosAppGrammar
 * [200429-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200429-iosAppGrammar.md) : AppLifeCycle
