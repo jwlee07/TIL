@@ -1,0 +1,203 @@
+
+[
+  {
+    "title": "대림창고",
+    "description": "창고형 분위기좋은 카페",
+    "location": {
+      "address": "성동구 성수이로 78",
+      "lat": 37.541708,
+      "lng": 127.056256,
+    },
+    "isFavorite": false,
+  },
+  {
+    "title": "센터커피",
+    "description": "커피가 맛있는 서울숲 카페",
+    "location": {
+      "address": "성동구 서울숲2길 28-11",
+      "lat": 37.546555,
+      "lng": 127.041563,
+    },
+    "isFavorite": false,
+  },
+  {
+    "title": "천상가옥",
+    "description": "복합문화공간 성수연방",
+    "location": {
+      "address": "성동구 성수동2가 성수이로14길 14",
+      "lat": 37.541579,
+      "lng": 127.057134,
+    },
+    "isFavorite": false,
+  },
+  {
+    "title": "어니언",
+    "description": "맛있는 팡도르 빵과 분위기",
+    "location": {
+      "address": "성동구 아차산로9길 8",
+      "lat": 37.544786,
+      "lng": 127.058119,
+    },
+    "isFavorite": true,
+  },
+  {
+    "title": "감성다방",
+    "description": "감성가득한 분위기",
+    "location": {
+      "address": "광진구 화양동 94-7",
+      "lat": 37.545743,
+      "lng": 127.073005,
+    },
+    "isFavorite": false,
+  },
+  {
+    "title": "어반소스",
+    "description": "분위기 좋은 카페 겸 레스토랑",
+    "location": {
+      "address": "성동구 성수2가3동 연무장3길 9",
+      "lat": 37.544584,
+      "lng": 127.051410,
+    },
+    "isFavorite": false,
+  },
+  {
+    "title": "블랙별",
+    "description": "도심 속 조용한 아지트",
+    "location": {
+      "address": "성동구 성수일로12길 20",
+      "lat": 37.5482173,
+      "lng": 127.0533479,
+    },
+    "isFavorite": false,
+  },
+  {
+    "title": "오르에르",
+    "description": "뒷마당이 예쁜 카페",
+    "location": {
+      "address": "성동구 연무장길 18",
+      "lat": 37.5434188,
+      "lng": 127.051374,
+    },
+    "isFavorite": false,
+  },
+  {
+    "title": "쉐어드테이블",
+    "description": "감성 분위기 갑 카페",
+    "location": {
+      "address": "성동구 연무장길 47",
+      "lat": 37.5427671,
+      "lng": 127.0547193,
+    },
+    "isFavorite": false,
+  },
+  {
+    "title": "인덱스카라멜",
+    "description": "직접만드는 수제 카라멜",
+    "location": {
+      "address": "성동구 성수이로 78",
+      "lat": 37.541637,
+      "lng": 127.056836,
+    },
+    "isFavorite": false,
+  },
+  {
+    "title": "장미맨숀",
+    "description": "뚝섬 사진찍기 좋은 카페",
+    "location": {
+      "address": "성동구 서울숲2길 22-2",
+      "lat": 37.546865,
+      "lng": 127.041120,
+    },
+    "isFavorite": false,
+  },
+  {
+    "title": "도렐커피",
+    "description": "제주도에서 올라온 육지 3호점",
+    "location": {
+      "address": "성동구 성수2가3동 314 12",
+      "lat": 37.543645,
+      "lng": 127.054469,
+    },
+    "isFavorite": false,
+  },
+  {
+    "title": "트와블루",
+    "description": "마당이 예쁜 카페",
+    "location": {
+      "address": "성동구 서울숲6길 11-1",
+      "lat": 37.547692,
+      "lng": 127.043088,
+    },
+    "isFavorite": true,
+  },
+  {
+    "title": "빌로우성수",
+    "description": "모단한 느낌의 카페",
+    "location": {
+      "address": "성동구 서울숲4길 16-10",
+      "lat": 37.547169,
+      "lng": 127.042452,
+    },
+    "isFavorite": false,
+  },
+  {
+    "title": "플레이스비브",
+    "description": "파스타가 맛있는 카페",
+    "location": {
+      "address": "성동구 아차산로7나길 14",
+      "lat": 37.5478583,
+      "lng": 127.0569025,
+    },
+    "isFavorite": false,
+  },
+  {
+    "title": "담향커피",
+    "description": "여유롭고 따뜻한 분위기",
+    "location": {
+      "address": "성동구 성수이로7가길 13",
+      "lat": 37.541413,
+      "lng": 127.055055,
+    },
+    "isFavorite": false,
+  },
+  {
+    "title": "그레이트커피",
+    "description": "서울숲 분위기좋은 카페",
+    "location": {
+      "address": "성동구 서울숲2길 6",
+      "lat": 37.547640,
+      "lng": 127.039677,
+    },
+    "isFavorite": false,
+  },
+  {
+    "title": "카페앤아더",
+    "description": "성수동 핫플 수영장 카페",
+    "location": {
+      "address": "성동구 서울숲2길 40-10",
+      "lat": 37.546258,
+      "lng": 127.042807,
+    },
+    "isFavorite": false,
+  },
+  {
+    "title": "카페라잌유",
+    "description": "서울숲 근처 감성 카페",
+    "location": {
+      "address": "성동구 왕십리로8길 21-1",
+      "lat": 37.546052,
+      "lng": 127.047167,
+    },
+    "isFavorite": false,
+  },
+  {
+    "title": "블루보틀",
+    "description": "블루보틀커피 성수 한국1호점",
+    "location": {
+      "address": "성동구 아차산로 7",
+      "lat": 37.548067,
+      "lng": 127.045623,
+    },
+    "isFavorite": true,
+  },
+]
