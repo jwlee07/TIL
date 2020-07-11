@@ -51,6 +51,8 @@
 
 ![NETWORK_6](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/image/Network/NETWORK_6.png)
 
+### Little Endian
+
 ```
 - Host Ordering 이라고도 하며, iPhone도 여기에 해당
 - 데이터를 하위 바이트로부터 낮은 메모리 주소에 저장
