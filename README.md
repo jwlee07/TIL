@@ -17,6 +17,7 @@
 * [swiftGrammar-200707](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200707.md) : Codable
 * [swiftGrammar-200710](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200710.md) : Error Handling
 * [swiftGrammar-200711](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200711.md) : NETWORK
+* [swiftGrammar-200724](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200724.md) : ClassInitializer
 
 ## iosAppGrammar
 * [200429-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200429-iosAppGrammar.md) : AppLifeCycle
