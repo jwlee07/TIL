@@ -34,7 +34,7 @@ class CategoryViewController: UIViewController {
   
   // MARK : 헤더 이미지 세팅
   func setupHeaderImage() {
-    title = "Domino's"
+    navigationItem.title = "Domino's"
     headerImageView.frame = CGRect (
       x: view.safeAreaInsets.left,
       y: view.safeAreaInsets.top,
