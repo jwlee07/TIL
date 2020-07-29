@@ -51,7 +51,7 @@ class ViewController: UIViewController {
     // 걸음 수를 가져오기 위한 것
     guard let sampleType = HKObjectType.quantityType(forIdentifier: .stepCount) else { return }
     
-    // 측정하는 시작날짜와 마지막 날짜
+    // 측정하는 시작날짜와 마지막  날짜
     let startDate = Calendar.current.startOfDay(for: Date())
     let predicate = HKQuery.predicateForSamples(withStart: startDate, end: Date(), options: .strictStartDate)
     
