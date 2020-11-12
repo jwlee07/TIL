@@ -19,6 +19,8 @@
 * [swiftGrammar-200711](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200711.md) : NETWORK
 * [swiftGrammar-200724](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200724.md) : ClassInitializer
 * [swiftGrammar-200725](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-200725.md) : CustomLogging
+* [swiftGrammar-201111](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-201111.md) : KSecClass
+* [swiftGrammar-201112](https://github.com/jwlee07/TIL/blob/master/swiftGrammar/swiftGrammar-201112.md) : Build Configuration
 
 ## iosAppGrammar
 * [200429-iosAppGrammar](https://github.com/jwlee07/TIL/blob/master/iosAppGrammar/200429-iosAppGrammar.md) : AppLifeCycle
