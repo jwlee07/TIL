@@ -63,3 +63,35 @@ intArray.capacity
 
 var stringSet: Set = ["Mary", "John", "Sally"]
 print(stringSet.debugDescription)
+
+class MoveList {
+    private var tracks = ["The Godfather", "The Dark Knight", "PulpFiction"]
+    
+    subscript(index: Int) -> String {
+        get {
+            return self.tracks[index]
+        }
+        set {
+            self.tracks[index] = newValue
+        }
+    }
+}
+
+var movieList = MoveList()
+var aMovie = movieList[0]
+print(aMovie)
+
+movieList[1] = "Forest Gump"
+aMovie = movieList[1]
+print(aMovie)
+
+class Person {
+    var firstName: String
+    var lastName: String
+    init(firstName: String, lastName: String) {
+        self.firstName = firstName
+        self.lastName = lastName
+    }
+}
+
+let person = Person(firstName: "jin", lastName: "wook")
